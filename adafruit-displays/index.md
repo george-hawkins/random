@@ -45,8 +45,8 @@ Graphic LCD
 | --- | --- | -----:| ---:| ----------- |
 | ![t](top.png) | ![250](http://www.adafruit.com/images/230x173/250-00.jpg) | $17.95 | [250](http://www.adafruit.com/products/250) | Graphic ST7565 Positive LCD (128x64) with RGB backlight + extras |
 | ![b](bot.png) | ![438](http://www.adafruit.com/images/230x173/438-00.jpg) | $18.95 | [438](http://www.adafruit.com/products/438) | Graphic ST7565 Negative LCD (128x64) with RGB backlight + extras |
-| ![t](top.png) | ![188](http://www.adafruit.com/images/230x173/188-00.jpg) | $24.00 | [188](http://www.adafruit.com/products/188) | Graphic KS0108 LCD 128x64 + extras - XXX - blue bg, white fg |
-| ![b](bot.png) | ![253](http://www.adafruit.com/images/230x173/253-00.jpg) | $30.00 | [253](http://www.adafruit.com/products/253) | MONOCHRON KS0108 Graphic LCD - XXX - black bg, white fg |
+| ![t](top.png) | ![188](http://www.adafruit.com/images/230x173/188-00.jpg) | $24.00 | [188](http://www.adafruit.com/products/188) | Graphic KS0108 LCD 128x64 + extras (blue screen background) |
+| ![b](bot.png) | ![253](http://www.adafruit.com/images/230x173/253-00.jpg) | $30.00 | [253](http://www.adafruit.com/products/253) | MONOCHRON KS0108 Graphic LCD (black screen background) |
 | ![o](one.png) | ![338](http://www.adafruit.com/images/230x173/338-00.jpg) | $10.00 | [338](http://www.adafruit.com/products/338) | Nokia 5110/3310 monochrome LCD + extras |
 | ![o](one.png) | ![773](http://www.adafruit.com/images/230x173/773-00.jpg) | $94.95 | [773](http://www.adafruit.com/products/773) | 128x64 Graphic VFD (Vacuum Fluorescent Display) - SPI interface |
 
