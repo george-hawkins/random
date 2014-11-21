@@ -96,7 +96,7 @@ Graphic LED
 
 |     |     | Price | PID | Description |
 | --- | --- | -----:| ---:| ----------- |
-| ![t](top.png) | ![420](http://www.adafruit.com/images/230x173/420-00.jpg)   |  $24.95 |  [420](http://www.adafruit.com/products/420)  | Medium 16x32 RGB LED matrix panel |
+| ![t](top.png) | ![420](http://www.adafruit.com/images/230x173/420-08.jpg)   |  $24.95 |  [420](http://www.adafruit.com/products/420)  | Medium 16x32 RGB LED matrix panel |
 | ![b](bot.png) | ![607](http://www.adafruit.com/images/230x173/607-00.jpg)   |  $49.95 |  [607](http://www.adafruit.com/products/607)  | 32x32 RGB LED Matrix Panel - 4mm Pitch |
 | ![o](one.png) | ![555](http://www.adafruit.com/images/230x173/555-00.jpg)   |  $24.95 |  [555](http://www.adafruit.com/products/555)  | 16x24 Red LED Matrix Panel - Chainable HT1632C Driver |
 | ![o](one.png) | ![1357](http://www.adafruit.com/images/230x173/1357-03.jpg) | $225.00 | [1357](http://www.adafruit.com/products/1357) | PIXEL Guts Kit - Bluetooth Controlled 32x32 RGB LED Matrix Kit |
