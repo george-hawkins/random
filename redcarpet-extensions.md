@@ -56,8 +56,10 @@ the front of each line to code blocks. This options
 prevents it from doing so. Recommended to use
 with `fenced_code_blocks: true`.
 
+----
     var s = "JavaScript syntax highlighting";
     alert(s);
+----
 
 * `:strikethrough`: parse strikethrough, PHP-Markdown style.
 Two `~` characters mark the start of a strikethrough,
