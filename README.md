@@ -24,4 +24,4 @@ And style tags?
 
 <span class="red">Am I red?</span>
 
-Are unknown protocols allowed in [links](gch://dummy/).
+Are unknown protocols allowed in links - [known](http://dummy/), [unknown](gch://dummy/).
