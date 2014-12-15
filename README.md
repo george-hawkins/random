@@ -24,4 +24,4 @@ And style tags?
 
 <span class="red">Am I red?</span>
 
-Are "unsafe" protocols allowed in links - [http (safe)](http://dummy/), [IRC (unsafe)](irc://dummy/) or [GCH (unknown)](gch://dummy/).
+Are "unsafe" protocols allowed in links - [http (safe)](http://dummy/), [IRC (unsafe)](irc://dummy/), [mailto (unsafe)](mailto://dummy/), [news (safe)](news://dummy/) or [GCH (unknown)](gch://dummy/).
