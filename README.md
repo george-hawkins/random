@@ -10,7 +10,7 @@ Violets are blue
 
 Are image tags?
 
-<img src="http://www.w3.org/html/logo/downloads/HTML5_Logo.svg">
+<img src="http://www.w3.org/html/logo/downloads/HTML5_Logo.svg" width="128" height="128">
 
 What about link tags?
 
