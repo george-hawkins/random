@@ -18,7 +18,7 @@ What about link tags?
 
 And style tags?
 
-<style scoped>
+<style>
   .red { color: red; }
 </style>
 
