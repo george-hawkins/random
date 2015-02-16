@@ -83,3 +83,15 @@ Shows:
 Text:
 
 * The secret message is...
+
+Maybe add some color to emphasize the two people communicating among the huge crowd of other people.
+
+## Reference section
+
+#### Example of a wireless router
+<img src="http://upload.wikimedia.org/wikipedia/commons/3/34/Linksys-Wireless-G-Router.jpg" width="512">
+
+#### Wi-Fi chip
+
+<img src="http://thereelnetwork.net/wp-content/uploads/2014/06/170624731.jpg">
+<img src="http://www.clker.com/cliparts/P/n/V/w/c/W/wifi-chip-hi.png" width="512">
