@@ -70,6 +70,8 @@ Shows:
 Text:
 
 * An IoT device has a Wi-Fi chip but its screen and keyboard are in a separate device (a smartphone).
+* IoT enabled thermostat
+* baby monitor
 
 ## 6. Train station
 
