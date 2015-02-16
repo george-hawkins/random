@@ -116,3 +116,7 @@ Here are just some photos I've found on the Web of some of the items I've mentio
 #### Thermostat
 
 <img src="http://www.rona.ca/images/0522013_L.jpg">
+
+#### Baby cot
+
+<img src="http://thomsonbaby.com/164-thickbox_default/bon-bebe-4-in-1-baby-cot.jpg" width="512">
