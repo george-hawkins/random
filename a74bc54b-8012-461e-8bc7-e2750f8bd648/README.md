@@ -86,7 +86,12 @@ Text:
 
 Maybe add some color to emphasize the two people communicating among the huge crowd of other people.
 
+----
+----
+
 ## Reference section
+
+Here are just some photos I've found on the Web of some of the items I've mentioned above.
 
 #### Example of a wireless router
 <img src="http://upload.wikimedia.org/wikipedia/commons/3/34/Linksys-Wireless-G-Router.jpg" width="512">
@@ -95,3 +100,19 @@ Maybe add some color to emphasize the two people communicating among the huge cr
 
 <img src="http://thereelnetwork.net/wp-content/uploads/2014/06/170624731.jpg">
 <img src="http://www.clker.com/cliparts/P/n/V/w/c/W/wifi-chip-hi.png" width="512">
+
+#### Baby monitor
+
+<img src="http://babadu.ru/upload/iblock/754/smart_baby_monitor_main.jpg">
+
+#### Christmas tree with lights
+
+<img src="http://www.kidprintables.com/coloring/christmas/tree3.gif">
+
+#### Skull and cross bones
+
+<img src="http://upload.wikimedia.org/wikipedia/commons/5/56/Skull_%26_Crossbones_BW.png" width="512">
+
+#### Thermostat
+
+<img src="http://www.rona.ca/images/0522013_L.jpg">
