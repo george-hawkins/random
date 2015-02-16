@@ -1,4 +1,4 @@
-## Visiblity
+## 1. Visiblity
 
 ![visible to](visible-to.jpg)
 
@@ -9,7 +9,7 @@ Text:
 * visible to anyone nearby with a laptop
 * visible to your ISP, backbone providers (Level 3 etc.) and service providers (Google etc.)
 
-## Dangers
+## 2. Dangers
 
 ![dangers](dangers.jpg)
 
@@ -29,7 +29,7 @@ Text:
 * lights flashing on and off randomly in houses all over the world
 * smartphone controlled Xmas tree lights reveal home Wi-Fi password to world, laptop is hacked and bank account emptied
 
-## Encryption then and now
+## 3. Encryption then and now
 
 ![crypt past present](crypt-past-present.jpg)
 
@@ -45,7 +45,7 @@ Text:
 
 Please just draw the computer as a large blank cabinet with a small panel (consisting of some lights above a few airvents).
 
-## Traditional Wi-Fi
+## 4. Traditional Wi-Fi
 
 ![keyboard traditional](keyboard-traditional.jpg)
 
@@ -58,7 +58,7 @@ Text:
 * In traditional Wi-Fi devices there's a physical connection between the Wi-Fi chip and the screen and keyboard used when connecting it to a network.
 * 802.11b/g/n
 
-## IoT Wi-Fi
+## 5. IoT Wi-Fi
 
 ![keyboard IoT](keyboard-iot.jpg)
 
@@ -71,7 +71,7 @@ Text:
 
 * An IoT device has a Wi-Fi chip but its screen and keyboard are in a separate device (a smartphone).
 
-## Train station
+## 6. Train station
 
 ![train station color](train-station-color.jpg) ![train station outline](train-station-outline.jpg)
 
