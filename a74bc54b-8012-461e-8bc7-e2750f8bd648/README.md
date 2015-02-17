@@ -78,7 +78,7 @@ Text:
 
 ## 6. Train station
 
-![train station color](train-station-color.jpg) ![train station outline](train-station-outline.jpg)
+![train station outline](train-station-outline.jpg)
 
 Shows:
 
@@ -99,6 +99,7 @@ Maybe add some color to emphasize the two people communicating among the crowd o
 Here are just some photos I've found on the Web that are good representations of some of the items I've used in my pictures above.
 
 #### Wireless router
+
 <img src="http://upload.wikimedia.org/wikipedia/commons/3/34/Linksys-Wireless-G-Router.jpg" width="512">
 
 #### Wi-Fi chip
@@ -125,3 +126,7 @@ Here are just some photos I've found on the Web that are good representations of
 #### Baby cot
 
 <img src="http://thomsonbaby.com/164-thickbox_default/bon-bebe-4-in-1-baby-cot.jpg" width="512">
+
+#### Train station
+
+![train station color](train-station-color.jpg)
