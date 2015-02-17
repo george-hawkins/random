@@ -101,32 +101,40 @@ Here are just some photos I've found on the Web that are good representations of
 #### Wireless router
 
 <img src="http://upload.wikimedia.org/wikipedia/commons/3/34/Linksys-Wireless-G-Router.jpg" width="512">
+<hr>
 
 #### Wi-Fi chip
 
 <img src="http://thereelnetwork.net/wp-content/uploads/2014/06/170624731.jpg">
 <img src="http://www.clker.com/cliparts/P/n/V/w/c/W/wifi-chip-hi.png" width="512">
+<hr>
 
 #### Baby monitor
 
 <img src="http://babadu.ru/upload/iblock/754/smart_baby_monitor_main.jpg">
+<hr>
 
 #### Christmas tree with lights
 
 <img src="http://www.kidprintables.com/coloring/christmas/tree3.gif">
+<hr>
 
 #### Skull and cross bones
 
 <img src="http://upload.wikimedia.org/wikipedia/commons/5/56/Skull_%26_Crossbones_BW.png" width="512">
+<hr>
 
 #### Thermostat
 
 <img src="http://www.rona.ca/images/0522013_L.jpg">
+<hr>
 
 #### Baby cot
 
 <img src="http://thomsonbaby.com/164-thickbox_default/bon-bebe-4-in-1-baby-cot.jpg" width="512">
+<hr>
 
 #### Train station
 
 ![train station color](train-station-color.jpg)
+<hr>
