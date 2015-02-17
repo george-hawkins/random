@@ -97,7 +97,7 @@ Maybe add some color to emphasize the two people communicating among the huge cr
 
 Here are just some photos I've found on the Web of some of the items I've mentioned above.
 
-#### Example of a wireless router
+#### Wireless router
 <img src="http://upload.wikimedia.org/wikipedia/commons/3/34/Linksys-Wireless-G-Router.jpg" width="512">
 
 #### Wi-Fi chip
