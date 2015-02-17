@@ -25,7 +25,7 @@ On the laptop screen is a big $ (dollar) sign and a skull and cross bones.
 
 Text:
 
-* child monitor - strangers looking/shouting at children
+* child monitor - strangers can look or shout at the child
 * lights flashing on and off randomly in houses all over the world
 * smartphone controlled Xmas tree lights reveal home Wi-Fi password to world, laptop is hacked and bank account emptied
 
@@ -43,9 +43,10 @@ Shows:
 Text:
 
 * Tedious manual process performed by hand
+* AES key
 * Complex mathematical process performed by computer
 
-Please just draw the computer as a large blank cabinet with a small panel (consisting of some lights above a few airvents).
+Please just draw the computer as a large blank cabinet with a small panel (consisting of some lights above a few air vents).
 
 ## 4. Traditional Wi-Fi
 
@@ -88,14 +89,14 @@ Text:
 
 * The secret message is...
 
-Maybe add some color to emphasize the two people communicating among the huge crowd of other people.
+Maybe add some color to emphasize the two people communicating among the crowd of other people.
 
 ----
 ----
 
 ## Reference section
 
-Here are just some photos I've found on the Web of some of the items I've mentioned above.
+Here are just some photos I've found on the Web that are good representations of some of the items I've used in my pictures above.
 
 #### Wireless router
 <img src="http://upload.wikimedia.org/wikipedia/commons/3/34/Linksys-Wireless-G-Router.jpg" width="512">
