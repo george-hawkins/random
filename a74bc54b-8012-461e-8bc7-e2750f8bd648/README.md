@@ -29,7 +29,7 @@ Text:
 * lights flashing on and off randomly in houses all over the world
 * smartphone controlled Xmas tree lights reveal home Wi-Fi password to world, laptop is hacked and bank account emptied
 
-Note: in nearly every picture here you see Wi-Fi "waves" - i.e. waves emanating from smartphones, laptops, high tech Christmas trees etc. In the middle frame above I've drawn similar lines emanating from the light bulbs but this isn't Wi-Fi, it's to try and show that the lights are flashing on and off madly - if you've got a better idea for showing this then perfect.
+Note: in nearly every picture here you see Wi-Fi "waves" - i.e. waves emanating from smartphones, laptops, high tech Christmas trees etc. In the middle frame above I've drawn _similar_ lines emanating from the light bulbs but this isn't Wi-Fi, it's to try and show that the lights are flashing on and off madly - if you've got a better idea for showing this then perfect.
 
 ## 3. Encryption then and now
 
