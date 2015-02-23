@@ -155,16 +155,16 @@ Here are just some photos I've found on the Web that are good representations of
 
 #### Coffee machine
 
-<img src="">
-<img src="">
+<img src="http://ecx.images-amazon.com/images/I/41roLkDaPqL.jpg">
+<img src="https://www.galaxus.ch/img/t-1-64-9241A1B5117E6BE4D07750F756B8671EDDD3D191071EAB42A81DFBA35ACEFFFD/russell-hobbs-allure-thermo-filter-coffee-machine.png" width="512">
 <hr>
 
 #### Spy equipment
 
-<img src="">
+<img src="http://img.444.hu/masokelete.jpg">
 <hr>
 
 #### High power antennae
 
-<img src="">
+<img src="http://previews.123rf.com/images/anthonycz/anthonycz1312/anthonycz131200012/24442033-Transmitter-icon--Stock-Vector-radio.jpg" width="512">
 <hr>
