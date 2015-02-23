@@ -31,6 +31,8 @@ Text:
 
 Note: in nearly every picture here you see Wi-Fi "waves" - i.e. waves emanating from smartphones, laptops, high tech Christmas trees etc. In the middle frame above I've drawn _similar_ lines emanating from the light bulbs but this isn't Wi-Fi, it's to try and show that the lights are flashing on and off madly - if you've got a better idea for showing this then perfect.
 
+Note: if you feel this picture is too much to do as a single image, then please split it into individual frames and charge for them separately. Or simply charge a different fee for pictures you think involve more work than normal. Whatever you think is fair and reasonable. The same goes for all the pictures here.
+
 ## 3. Encryption then and now
 
 ![crypt past present](crypt-past-present.jpg)
@@ -91,6 +93,18 @@ Text:
 
 Maybe add some color to emphasize the two people communicating among the crowd of other people.
 
+## 7. Man-in-the-middle
+
+![man-in-the-middle](man-in-the-middle.jpg)
+
+Shows:
+
+* User looking at smartphone, thinking he's directly controlling his fancy new Wi-Fi enabled coffee machine.
+* High tech filter coffee machine.
+* Spy equipment in another apartment in the same building, with a high power antennae.
+
+The smartphone is really communicating with the spy equipment, which in turn is communicating with the coffee machine.
+
 ----
 ----
 
@@ -137,4 +151,20 @@ Here are just some photos I've found on the Web that are good representations of
 #### Train station
 
 ![train station color](train-station-color.jpg)
+<hr>
+
+#### Coffee machine
+
+<img src="">
+<img src="">
+<hr>
+
+#### Spy equipment
+
+<img src="">
+<hr>
+
+#### High power antennae
+
+<img src="">
 <hr>
