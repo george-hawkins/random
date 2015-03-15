@@ -11,7 +11,7 @@ The first shows the user about to press the "Next >" button on a screeen that sh
 > MyPlace
 >
 > Password:
-> ******
+> \*\*\*\*\*\*
 
 Note: "MyPlace" isn't editable, so I haven't drawn a box around it.
 
