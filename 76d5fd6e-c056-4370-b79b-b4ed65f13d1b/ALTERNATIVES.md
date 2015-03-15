@@ -41,7 +41,7 @@ Reference section
 
 #### USB plug
 
-<img src="http://commons.wikimedia.org/wiki/File:USB_Type_A_Plug_BW.svg">
+<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/USB_Type_A_Plug_BW.svg/320px-USB_Type_A_Plug_BW.svg.png">
 <img src="http://thumbs.dreamstime.com/x/usb-cable-vector-illustration-1519646.jpg">
 <img src="http://g-ecx.images-amazon.com/images/G/02/uk-health-and-beauty/Remington/USB_icon_final._V190393031_.jpg">
 
