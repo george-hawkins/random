@@ -1,5 +1,5 @@
-Alternatives
-------------
+3 alternatives
+--------------
 
 This picture shows the same baby monitor three times.
 
@@ -26,6 +26,9 @@ It's not necessary that all of this text be visible, the viewer can assume the s
 The third time the baby monitor has a QR code sticker on the side.
 
 ![QR code](qr-code.png)
+
+----
+----
 
 Reference section
 -----------------
