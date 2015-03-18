@@ -5,20 +5,20 @@ Password vs key
 
 This image shows two situations:
 
-1. The first - a laptop showing a password field with the text "Password:" to the left. The laptop is connected by a thin cable to a World War II style bunker. The bunker is supposed to represent "toughness" - it's not supposed to be something military so there shouldn't be any guns or anything poking out of it.
-2. The second - a really powerful computer, like a MacPro, we zoom in on a bit of it and see one of the processors (kind of like the Wi-Fi chip you drew before). And then we zoom in on it again and see a document that's contains just binary code.
+1. The first situation - a laptop showing an empty text field with the text "Password:" to the left. The laptop is connected by a thin cable to a concrete World War II style bunker. The bunker is supposed to represent "toughness" - it's not supposed to be something military so there shouldn't be any guns or anything poking out of it.
+2. The second situation - a really powerful computer, like a MacPro, we zoom in on a bit of it and see one of the processors (kind of like the Wi-Fi chip you drew before). And then we zoom in on it again and see a document that's contains just binary code.
 
-The processor has the words "Xeon&reg; Processor" on it. See the image of the processor below - don't draw the Intel logo, or any text other than "Xeon&reg; Processor".
+The processor has the words "Xeon&reg; Processor" on it (see the image of the processor below - don't draw the Intel logo, or any text other than "Xeon&reg; Processor").
 
 ![connectors](processor-connectors.png)
 
 Unlike the Wi-Fi chip, do _not_ draw any connectors (like the thing marked in red) - just draw the wires coming out of the chip.
 
-I've included a picture below of what you see if you look below the metal case of the chip. So for the little x-ray circle on the processor (that is zoomed out to the document) maybe just draw a simple dark grid.
+I've included a picture below of what you see if you look below the metal case of the chip. So for the little x-ray circle on the processor (that is zoomed out to the document) maybe just draw a simple grid.
 
-My drawing is roughly square - but I want a rectangular layout with the bunker and laptop on the left and the rest of the right.
+My drawing is roughly square - but I want a more rectangular layout with the bunker and laptop on the left and the rest of the right.
 
-Here is an example of binary code, maybe you can copy some of it into the document part of the image.
+Here is an example of binary code, this is the kind of thing that should be on the document.
 
 ```
 0000000: 1f8b 0800 5eb4 f054 0003 ac9a 097c 1445  ....^..T.....|.E
@@ -60,16 +60,24 @@ Reference section
 
 #### Xeon processor
 
-http://cdn4.wccftech.com/wp-content/uploads/2013/09/Intel-Xeon-E5-2600-V2.jpg
+![Xeon](http://cdn4.wccftech.com/wp-content/uploads/2013/09/Intel-Xeon-E5-2600-V2.jpg)
 
 ----
 
 #### X-ray view of processor surface
 
-http://download.intel.com/newsroom/kits/xeon/e5/gallery/images/Sandy-Bridge_EP_2.jpg
+![processor surface](http://download.intel.com/newsroom/kits/xeon/e5/gallery/images/Sandy-Bridge_EP_2.jpg)
 
 ----
 
 #### Mac Pro
 
-http://4.bp.blogspot.com/--YbAmgqDw_I/UdWfjJkIFmI/AAAAAAAAACw/sj4Xlwxe2_0/s1280/Mac-Pro-2013-Transparent-04.jpg
+![Mac Pro](http://4.bp.blogspot.com/--YbAmgqDw_I/UdWfjJkIFmI/AAAAAAAAACw/sj4Xlwxe2_0/s1280/Mac-Pro-2013-Transparent-04.jpg)
+
+----
+
+#### Concrete bunker
+
+![bunker 1](http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/S%C3%B8ndervig%2C_Denmark%2C_Deutsche_Bunker_Atlantikwall_8408.jpg/1024px-S%C3%B8ndervig%2C_Denmark%2C_Deutsche_Bunker_Atlantikwall_8408.jpg)
+![bunker 2](https://thecarrside.files.wordpress.com/2014/01/p1000760.jpg)
+![bunker 3](https://thecarrside.files.wordpress.com/2014/01/concrete-reinforced-bunker-used-by-nazis-in-ww-ii.jpg)
