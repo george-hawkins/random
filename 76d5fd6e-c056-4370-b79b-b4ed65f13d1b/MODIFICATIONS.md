@@ -3,7 +3,7 @@ Modifications
 
 Could you please modify these pictures you did last time to include the screen contents shown in my drawing below?
 
-![tradition Wi-Fi](tradition-wi-fi.png]
+![traditional Wi-Fi](tradition-wi-fi.png)
 
 ![IoT Wi-Fi](iot-wi-fi.png)
 
