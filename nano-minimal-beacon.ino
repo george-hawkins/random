@@ -45,7 +45,7 @@ void advertiseBeacon() {
 
     // ---
 
-    static ble_gap_conn_params_t  m_preferred_conn_params;  /**< Connection parameters preferred by the application. */
+    ble_gap_conn_params_t  m_preferred_conn_params;  /**< Connection parameters preferred by the application. */
     
     nrf_err_check(5, sd_ble_gap_ppcp_get(&m_preferred_conn_params));
 
